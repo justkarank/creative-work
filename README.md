@@ -1,8 +1,8 @@
 # Creative work
 
-Selected social, campaign, video and design work by **Karan Kamboj**, creative technologist. This is the non-code half of my portfolio; the code half is in my other repositories.
+Selected social, campaign, video and design work by **Karan Kamboj**, creative technologist. This is the non-code half of my portfolio; the code half is in my other repositories. The pieces below are the same ones shown on my portfolio site.
 
-**Portfolio site:** https://justkarank-portfolio.vercel.app/ · **Email:** karan.kamboj1612@gmail.com
+**Portfolio site:** https://justkarank-portfolio.vercel.app/ · **Instagram:** https://www.instagram.com/justkarank · **LinkedIn:** https://www.linkedin.com/in/karan-kamboj-b17386448/ · **Email:** karan.kamboj1612@gmail.com
 
 I direct the look of each brand, then produce it end to end. Much of the imagery is AI-assisted: I art-direct the tools and finish the result to each brand's own style.
 
@@ -32,6 +32,7 @@ Event posters, logo concepts for a wellness clinic, and print pieces such as a c
 ![Posters, logos and print](images/posters-logos-print.jpg)
 
 ## Related code projects
+- [Portfolio site](https://justkarank-portfolio.vercel.app/): this work in context, with the preloader and scroll animation
 - [Senor Brew Club POS](https://github.com/justkarank/senor-brew-pos): full-stack café POS
 - [Puhoor: Toda Embroidery](https://github.com/justkarank/puhoor-toda-embroidery): interactive scroll exhibition
 
