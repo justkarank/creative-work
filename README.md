@@ -2,7 +2,7 @@
 
 Selected social, campaign, video and design work by **Karan Kamboj**, creative technologist. This is the non-code half of my portfolio; the code half is in my other repositories. The pieces below are the same ones shown on my portfolio site.
 
-**Portfolio site:** https://www.karankamboj.com/ · **Instagram:** https://www.instagram.com/justkarank · **LinkedIn:** https://www.linkedin.com/in/karan-kamboj-b17386448/ · **Email:** karan.kamboj1612@gmail.com
+**Portfolio site:** https://www.karankamboj.com/ · **Instagram:** https://www.instagram.com/justkarank · **LinkedIn:** https://www.linkedin.com/in/karan-kamboj-b17386448/ · **Email:** hello@karankamboj.com
 
 I direct the look of each brand, then produce it end to end. Much of the imagery is AI-assisted: I art-direct the tools and finish the result to each brand's own style.
 
